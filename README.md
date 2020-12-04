@@ -21,6 +21,6 @@ Sprites:https://opengameart.org/content/mv-platformer-skeleton
 
 # Created by: Group Name
 Erik Hultgren- Level design and assets
-, Bowen Murphy-
+, Bowen Murphy- Assets and Level Design
 , Bryant Balting- Scripting and Debugging
 , Emma Beasley- Assets and Audio
